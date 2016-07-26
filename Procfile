@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS  src/main/java/hello/Application
